@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  SCDBaseView.h
 //  ObjMVVMDemo
 //
-//  Created by Simpletour on 2018/3/23.
+//  Created by gt001 on 2018/8/20.
 //  Copyright © 2018年 Simpletour. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SCDBaseView : UIView
 
 @end
-
